@@ -107,7 +107,7 @@ v0.1.0
 ========================================================================
 CREDITS                                              *ScratchpadCredits*
 
-Copyright (c) 2017 Rand Schneck <i@rasch.co>
+Copyright (c) 2017-2025 Rand Schneck <i@rasch.co>
 
 ========================================================================
  vim:ft=help:tw=72:ts=4:et:
